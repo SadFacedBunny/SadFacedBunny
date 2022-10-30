@@ -16,6 +16,7 @@
         - Ansible
         - Docker
         - Kubernetes
+        - Cloud (aws/gcp)
     - Software Development 
         - Web 
           - Nodejs
