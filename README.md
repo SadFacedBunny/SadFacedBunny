@@ -1,35 +1,23 @@
-- 👋 Hi, I’m @SadFacedBunny a DevOps Engineer, who is motivated and open to new experiences
+- 👋 Hi, I’m @SadFacedBunny a Software Engineer, who is motivated and open to new experiences
 - 👀 I’m interested in:
-    - DevOps
-        - CI/CD (TravisCI/Jenkins)
-        - Ansible
-        - Python
-        - Docker
     - Software Development 
         - Web 
-          - Ruby on Rails   
-    - Startups
-    - Networking Opportunities 
+          - Ruby on Rails
+        - etc.
+          - Python, Mircopython     
+    - Problem Solving at Scale
+    - Task Automation (using Scripts to make my life easier)
 - 🌱 I’m currently learning
-    - DevOps
-        - CI/CD (TravisCI/Jenkins)
-        - Ansible
-        - Docker
-        - Kubernetes
-        - Cloud (aws/gcp)
     - Software Development 
         - Web 
           - Nodejs
-          - Java
-          - JavaScript
-        - CI/CD
-          - Github
-          - Travis CI 
-          - DOcker   
+          - expressjs
+          - JavaScript  
 - 💞️ I’m looking to collaborate on:
-    - smaller projects 
+    - Startup Projects
+        - Environmental Projects 
+        - Data Collection / Analytics 
     - Projects where i can make an impact  
-    - Projects that would teach me something new    
 - 📫 How to reach me:
        
 
