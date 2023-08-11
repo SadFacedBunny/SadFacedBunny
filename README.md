@@ -3,16 +3,23 @@
     - Software Development 
         - Web 
           - Ruby on Rails
+          - django
+          - React
         - etc.
-          - Python, Mircopython     
+          - Python, Mircopython, GO, RUST     
     - Problem Solving at Scale
     - Task Automation (using Scripts to make my life easier)
 - 🌱 I’m currently learning
     - Software Development 
         - Web 
-          - Nodejs
-          - expressjs
-          - JavaScript  
+          - Ruby on Rails
+          - React
+          - JavaScript
+        - CI/CD (Automated deployment)
+          - Jenkins
+          - Fly.io
+        - Testing
+          - Rspec 
 - 💞️ I’m looking to collaborate on:
     - Startup Projects
         - Environmental Projects 
