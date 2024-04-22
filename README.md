@@ -1,25 +1,38 @@
 - 👋 Hi, I’m @SadFacedBunny a Software Engineer, who is motivated and open to new experiences
 - 👀 I’m interested in:
     - Software Development 
-        - Web 
-          - Ruby on Rails
+        - Languages 
+          - Ruby 
+          - React, TS, Nodejs, JS
+          - Python, Mircopython,
+          - RUST, perl, c/c++, C#, PHP
+        - Frameworks
           - django
-          - React
-        - etc.
-          - Python, Mircopython, GO, RUST     
+          - flask
+          - Rails
+          - Symfony
+          - fastapi
+        - Technologies
+          - RabbitMQ
+          - Kafka
+          - haproxy
+          - apache
+          - nginx
+        - Automation
+          - Drone.io
+          - ArgoCD/K8s
+          - Docker
+          - Ansible
+        - Databases
+          - MariaDB
+          - MongoDB
+          - Postgres          
     - Problem Solving at Scale
     - Task Automation (using Scripts to make my life easier)
 - 🌱 I’m currently learning
-    - Software Development 
-        - Web 
-          - Ruby on Rails
-          - React
-          - JavaScript
-        - CI/CD (Automated deployment)
-          - Jenkins
-          - Fly.io
-        - Testing
-          - Rspec 
+    - more about emerging technologies
+        - DBs - ScyllaDB, TigerBeetle
+        - AI - ChatGPT         
 - 💞️ I’m looking to collaborate on:
     - Startup Projects
         - Environmental Projects 
